@@ -3,4 +3,7 @@ class Person {
   #age
   #country
     #name1
+
+    #city
+    #salary
 }
