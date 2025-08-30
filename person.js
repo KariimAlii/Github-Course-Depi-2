@@ -1,4 +1,3 @@
 class Person {
-    #uuid
-    #instructors
+    
 }
